@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;beans.xml&apos; to &apos;mybatisuser/src/mybatisuser.conf&apos;&#x0D;&#x0A;- Original project: &apos;simpledi&apos;&#x0D;&#x0A;- Destination element: &apos;mybatisuser/src/mybatisuser.conf&apos;&#x0D;&#x0A;- Original element: &apos;beans.xml&apos;" description="Copy file" destination="=mybatisuser/src=/optional=/true=/=/maven.pomderived=/true=/&lt;mybatisuser.conf" element1="src/conf/beans.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1722818503461" units="0" version="1.0"/>
+</session>

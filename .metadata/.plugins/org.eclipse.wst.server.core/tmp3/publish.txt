@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Oct 04 17:05:00 KST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-web\\5.3.21\\spring-web-5.3.21.jar=D\:\\tomcat9\\webapps\\StoryCraft\\WEB-INF\\lib\\spring-web-5.3.21.jar
+org.eclipse.jst.jee.server\:StoryCraft=D\:\\tomcat9\\webapps\\StoryCraft
